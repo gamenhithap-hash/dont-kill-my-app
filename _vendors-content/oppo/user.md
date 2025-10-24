@@ -1,4 +1,4 @@
----
+Oppo a12---
 manufacturer: 
     - oppo
 
